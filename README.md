@@ -1,9 +1,6 @@
 # my-stellar-project
 A Stellar smart contract project
 
-# my-stellar-project
-A Stellar smart contract project
-
 # 🎟️ EventPass — Blockchain Ticket System
 
 > NFT-like event tickets with clawback fraud prevention, built on Stellar Soroban.
